@@ -1,0 +1,27 @@
+div{
+  width: 400px;
+  border: 5px solid #4285f4;
+        
+}
+.Direction1 {
+  color: white;
+  padding: 50px;
+  background: #E67676;
+  margin:0  
+}
+main{
+  width: 400px;
+  border: 5px solid #4285f4; 
+  margin-top: 10px
+  
+}
+.Direction3{
+  
+  color: white;
+    padding: 50px;
+  background: #A9E6E6;
+  margin:0
+}
+.centered{
+  text-align: center;
+}

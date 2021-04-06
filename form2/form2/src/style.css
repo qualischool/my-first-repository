@@ -1,0 +1,23 @@
+h4 {
+  display: inline;
+  color: navy;
+}
+input{
+  display: inline-block;
+}
+h5{
+  display: inline;
+  color: navy;
+}
+input{
+  background: pink;
+  border: 2px solid red;
+}
+h3{
+  color: navy;
+}
+button{
+  color: green;
+  background: yellow;
+}
+

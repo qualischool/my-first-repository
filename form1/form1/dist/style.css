@@ -1,0 +1,13 @@
+label{
+  display: block;
+}
+input{
+  display: block;
+}
+input{
+  border: 2px solid  green;
+  border-radius: 2em
+}
+button{
+  background: green;
+}

@@ -1,0 +1,80 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 70px;
+  background-color: purple;
+  padding-left: 50px;
+  margin: 0;
+  position: static;
+  top: 0;
+  
+ 
+}
+.link1{
+  display: flex;
+  flex-direction: row;
+    height: 30px;
+  width: 100px;
+  background-color: cyan;
+  margin-right: 5px;
+    
+}
+.link2{
+  display: flex;
+  flex-direction: row;
+    height: 30px;
+  width: 180px;
+  background-color: cyan;
+  margin-right: 5px;
+  
+}
+.link3{
+  display: flex;
+  flex-direction: row;
+    height: 30px;
+  width: 100px;
+  background-color: cyan;
+  margin-right: 5px;
+  
+}
+.content{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  margin-top: 10px;
+  width: 500px;
+  margin-left: 100px;
+  
+   
+  }
+.yellow{
+  display: flex;
+  flex-direction: row;
+  flex-grow: 4;
+  background-color: yellow;
+  width: 500px;
+  border: 2px solid yellow;
+  margin: 0
+}
+.green{
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  background-color: green;
+  width: 200px;
+  height: 500px;
+  margin: 0;
+}
+.foot{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: lightgrey;
+  height: 80px;
+  width: 500px;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+}

@@ -1,0 +1,87 @@
+.top{
+ display: flex;
+ justify-content: center; 
+ items-align: center;
+ position: relative;
+  margin-bottom: 20px;
+  
+  
+}
+.TextinPicture1{
+  position: absolute;
+  top: 160px;
+  left: 20px;
+}
+.TextinPicture2{
+ position: absolute;
+  top: 180px;
+  left: 20px;
+  padding-bottom: 10px;
+   
+} 
+ 
+}
+.TopMain{
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  width: 700px;
+  
+  
+  
+  
+  
+ 
+  
+}
+.Quote{
+  display: flex;
+  flex-direction: space-evenly;
+  justify-content: center;
+  items-align: center;  
+  background-color: black;
+  width: 600px;
+  height: 100px; 
+  position: relative;
+    
+}
+#QuoteColor{
+  color: white;
+}
+#QuotationMark{
+  display: flex;
+  color: white;
+  position: absolute;
+  top: -30px;
+  left: 0px;
+  
+}
+.main{
+  display: flex;
+  justify-content: center;
+  
+}
+.Font{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.Navigation{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 100px;
+  padding-left: 100px;
+  height: 50px;
+  background-color: black;
+  align-items: center; 
+}
+.NavigationBar{
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  
+}
+.Links{
+  color: white;
+}
+
+
+
